@@ -1,0 +1,14 @@
+Date,Description,Category,Type,Amount
+2026-01-03,Salary,Income,Income,75000
+2026-01-05,Office Rent,Rent,Expense,18000
+2026-01-08,Electricity Bill,Utilities,Expense,3200
+2026-01-10,Groceries,Food,Expense,4500
+2026-01-12,Software Subscription,Software,Expense,1800
+2026-01-15,Client Payment,Income,Income,28000
+2026-01-18,Travel Expense,Travel,Expense,6200
+2026-01-20,Internet Bill,Utilities,Expense,1200
+2026-01-22,Groceries,Food,Expense,3800
+2026-01-25,Marketing Expense,Marketing,Expense,5500
+2026-01-27,Client Payment,Income,Income,22000
+2026-01-29,Office Supplies,Office Supplies,Expense,2400
+2026-01-30,Software Subscription,Software,Expense,1800
